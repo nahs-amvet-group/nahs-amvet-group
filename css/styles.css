@@ -1,0 +1,16 @@
+.container{
+  font-size: 20px;
+  font-family:sans-serif;
+  color: white;
+  background-color: #2b6dc4;
+  padding: 2.5% 2.5% 2.5% 2.5%;
+  margin-top: 0px;
+}
+.mystyle{
+  font-family: Roboto;
+  font-size: 35px;
+  color: white;
+  background-color: red;
+  text-align: center;
+  margin-top: 0px;
+}
